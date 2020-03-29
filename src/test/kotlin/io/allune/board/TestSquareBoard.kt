@@ -1,6 +1,6 @@
-package board
+package io.allune.board
 
-import board.Direction.*
+import io.allune.board.Direction.*
 import org.junit.Assert
 import org.junit.FixMethodOrder
 import org.junit.Test

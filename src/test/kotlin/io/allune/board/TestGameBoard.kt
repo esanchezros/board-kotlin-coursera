@@ -1,4 +1,4 @@
-package board
+package io.allune.board
 
 import org.junit.Assert
 import org.junit.FixMethodOrder

@@ -1,6 +1,6 @@
-package board
+package io.allune.board
 
-import board.Direction.*
+import io.allune.board.Direction.*
 
 fun createSquareBoard(width: Int): SquareBoard {
     return SquareBoardImpl(width)
